@@ -1829,3 +1829,28 @@ responsive
   }
 
 }
+
+.dc-alt {
+  height: 200px;
+}
+
+.item-alt {
+  height: 450px;
+}
+
+.res-card-alt {
+  border-radius: 20px;
+}
+
+.res-card-img-alt {
+  border-radius: 20px; 
+  padding: 20px;
+  height: 250px;
+}
+
+.res-card-h4-alt {
+  padding: 20px; 
+  font-size: 20px; 
+  color: black; 
+  font-weight: bold;
+}
